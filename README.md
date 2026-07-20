@@ -8,8 +8,9 @@ I made <a href="https://www.lirena.in/">portfolio site</a> for a reason so.... h
 </h3>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
-		<img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=LiReNa00&show_icons=true&theme=github_dark&hide_border=true'>
+		<img width="49.5%" src='https://github-stats-extended.vercel.app/api?username=lirena00&custom_title=lirena00&show_icons=true&include_all_commits=true&theme=github_dark'>
 		<img width="49.5%" src='https://streak-stats.demolab.com/?user=lirena00&theme=github-dark-blue&hide_border=true'>
+		
 	</a>
 </div>
 <br>
