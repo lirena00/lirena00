@@ -13,22 +13,14 @@ I made <a href="https://www.lirena.in/">portfolio site</a> for a reason so.... h
 	</a>
 </div>
 <br>
-<div align='center'>
+<!-- <div align='center'>
 	<a href='https://github.com/lirena00'>
 	<img width="49.5%" src="https://github-stats-extended.vercel.app/api/top-langs?username=lirena00&layout=compact&langs_count=5&theme=github_dark&hide_border=true">
 	<img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=lirena00&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
 	</a>
-</div>
+</div> -->
 <br>
-<h3 align="center">
-<b>Stack Overflow</b>
-</h3>
-<div align='center'>
-<a href='https://stackoverflow.com/users/13875145/'>
-<img width="20%" src='https://github-readme-stackoverflow.vercel.app/?userID=13875145&theme=dark'>
-</div>
-<br>
-<hr>
+<!-- <hr> -->
 <br>
 <div align='center'>
 	<a href = 'https://stackoverflow.com/users/13875145/saksham-kushwaha'>
